@@ -1,0 +1,6 @@
+git init
+git add book_api.py
+git commit -m "Initial commit for Book CRUD API"
+git branch -M main
+git remote add origin <your-repository-url>
+git push -u origin main
